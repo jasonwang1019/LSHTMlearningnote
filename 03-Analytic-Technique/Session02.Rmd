@@ -83,7 +83,7 @@ $$
 
 $$
 \begin{equation}
-\text{Prob}\{ \bar{Y} \leqslant \mu+z_{\alpha/2}\frac{\alpha}{\sqrt{n}} \} = \text{Prob}\{ \bar{Y} \geqslant \mu+z_{1-\alpha/2}\frac{\alpha}{\sqrt{n}} \} = \frac{\alpha}{2}
+\text{Prob}\{ \bar{Y} \leqslant \mu+z_{\alpha/2}\frac{\sigma}{\sqrt{n}} \} = \text{Prob}\{ \bar{Y} \geqslant \mu+z_{1-\alpha/2}\frac{\sigma}{\sqrt{n}} \} = \frac{\alpha}{2}
 \end{equation}
 (\#eq:AT7)
 $$
